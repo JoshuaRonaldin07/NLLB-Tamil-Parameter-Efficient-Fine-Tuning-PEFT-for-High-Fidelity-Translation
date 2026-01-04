@@ -1,5 +1,5 @@
 # NLLB-Tamil-Parameter-Efficient-Fine-Tuning-PEFT-for-High-Fidelity-Translation
-# 🇮🇳 NLLB-Tamil: Fine-Tuning for English-to-Tamil Translation
+# NLLB-Tamil: Fine-Tuning for English-to-Tamil Translation
 
 This project focuses on enhancing Meta's **NLLB-200 (No Language Left Behind)** model specifically for English-to-Tamil translation. By utilizing **LoRA (Low-Rank Adaptation)**, I achieved high-quality translation improvements while training less than 0.2% of the total model parameters.
 
